@@ -3,3 +3,5 @@ Our company builds custom computers for clients' project requests. For each one 
 To all new computers we give unique serial number by client request template. The folder and file must be named as serial number of the system.<br>
 Each time we build minimum 10 systems and creating 10 folders. It's takes ~20 minutes and worker can do mistakes in serials. I build tool for auto creating folders with client template and preconfigured excel file.
 <hr>
+<img src="/readme_img/main.JPG" />
+<img src="/readme_img/new_template.JPG" />
